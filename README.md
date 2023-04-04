@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valeriy Litvinov</h1>
 <h3 align="center">Frontend developer</h3>
 
-- 🌱 I’m currently learning **React, TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://valeriy59.github.io/my-portfolio/](https://valeriy59.github.io/my-portfolio/)
+- 🌱 I currently use **React, TypeScript**
 
 - 📫 How to reach me **litvinovval@gmail.com**
 
